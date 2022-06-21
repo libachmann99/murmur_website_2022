@@ -1,0 +1,39 @@
+::selection{
+    color:#fff;
+    background:#ec008c
+}
+.button{
+    border:12px;
+    border-color:#000;
+    border-radius:50px;
+    color:#000;
+    font-family:GTAmerica,sans-serif;
+    font-style:normal;
+    padding:10px 24px;
+    text-align:center;
+    text-decoration:none;
+    display:inline-block;
+    font-size:16px;
+    margin:5px 2px;
+    text-decoration:none
+}
+.button1{
+    background-color:#f8f3e7;
+    border:#2f2313 2px solid
+}
+a.button:link{
+    color:#2f2313;
+    text-decoration:none
+}
+a.button:visited{
+    color:#2f2313;
+    text-decoration:none
+}
+a.button:hover{
+    color:#ec008c;
+    text-decoration:none
+}
+a.button:active{
+    color:#ec008c;
+    text-decoration:none
+}
