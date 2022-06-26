@@ -759,7 +759,7 @@ h1{
 }
 h2{
     font-family:GTAmerica,sans-serif;
-    font-size:40px;
+    font-size:30px;
     font-style:normal;
     font-weight:400;
     line-height:120%
@@ -775,7 +775,7 @@ h2{
 }
 h3{
     font-family:GTAmerica,sans-serif;
-    font-size:24px;
+    font-size:32px;
     font-style:normal;
     font-weight:400;
     line-height:120%
@@ -892,7 +892,6 @@ header a{
     background-color:#2f2313
 }
 #menu ul li{
-    border-bottom:#2f2313 2px solid
 }
 #menu:before{
     content:'';

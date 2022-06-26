@@ -14,6 +14,25 @@
     font-style:normal;
     src:url(../fonts/GTAmerica-CondensedBlack.woff2) format("woff2")
 }
+
+
+
+
+@media only screen and (min-width:1025px){
+    .homepage .content-container{
+        opacity: 0;
+    }
+}
+
+
+@media only screen and (max-width:800px){
+    .homepage .content-container{
+        opacity: 1;
+    }
+}
+
+
+
 header{
     touch-action:none;
     width:100vw;

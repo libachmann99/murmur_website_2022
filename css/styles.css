@@ -664,7 +664,7 @@ section{
     z-index:10;
     padding-top:20px;
     padding-bottom:20px;
-    color:#fff;
+    color:#2f2313;
     text-align:center;
     text-shadow:none
 }
@@ -1173,6 +1173,13 @@ section{
 }
 section-a{
     height:100px;
+    width:100vw;
+    position:relative;
+    flex-shrink:0
+}
+
+section-b{
+    height:210px;
     width:100vw;
     position:relative;
     flex-shrink:0
